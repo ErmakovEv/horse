@@ -1,0 +1,9 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+
+
+#canvas{
+    border:10px solid red;
+}
